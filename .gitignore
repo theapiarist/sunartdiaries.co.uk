@@ -4,6 +4,7 @@
 public/*
 resources/_gen/*
 deploy.sh
+sunartdiaries.co.uk.code-workspace
 
 ### Code ###
 .vscode/*

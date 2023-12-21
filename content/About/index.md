@@ -10,11 +10,6 @@ categories:
 ---
 
 
-## Update …
-This website has recently been moved and updated. I wanted to avoid using Wordpress and shift to a static site which should be faster and have less security/maintenance issues. I have temporarily disabled comments and will re-enable them in due course. You can follow updates to this website using the [RSS feed](/index.xml) and a suitable feedreader (or your browser). I will also create a page to subscribe to an irregular newsletter with site updates … again, in due course :wink: .
-
----
-
 Ardnamurchan is the most westerly part of mainland Britain. Having holidayed on the peninsula for several years an opportunity arose to buy a house and land with views over Loch Sunart to the mountains beyond.
 
 The remote and rugged Ardnamurchan peninsula provides ample opportunities to indulge my interests in photography, beekeeping, walking, fishing, canoeing and wildlife.
