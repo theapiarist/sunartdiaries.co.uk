@@ -1,0 +1,4 @@
+# redirects file for Netlify
+/home   /   301
+/:year/:month/:day/*    /:year/:month/:splat 301
+/ardnamurchan-birds/    /birds 301

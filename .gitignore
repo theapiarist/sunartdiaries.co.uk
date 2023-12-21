@@ -1,0 +1,13 @@
+# handcrafted
+.hugo_build.lock
+.DS_Store
+public/*
+resources/_gen/*
+deploy.sh
+
+### Code ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
